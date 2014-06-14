@@ -65,7 +65,7 @@
 
 				<header>
 					<div class="currency">
-						<h2>1 <strong> EUR </strong> is worth:</h2>
+						<h2>1<Strong> Eur </strong> is worth:</h2>
 					</div>
 
 				</header>
@@ -91,25 +91,25 @@
 						foreach ($xml->children() as $child) {
 
 							$min=0;
-							$max=32;
+							$max=31;
 							
 							
 							if($counter==1){
-								$min=31;
-								$max=63;
+								$min=30;
+								$max=61;
 							}
 							
 							if($counter==2){
-								$min=63;
+								$min=61;
 								$max=100;
 							}
 							
 							
 							if($cont>$min && $cont<$max){
 								
-								$currency;
 								$value;
-								
+								$currency;
+							
 								foreach ($child->children() as $child) {
 											
 									
@@ -130,8 +130,11 @@
 										
 									}
 								
+								$value = substr($value, 9, 8); 
+							
+								$currency = substr($currency, 0, 3); 
 	 								
-									echo '<li /> <button  class="buttonCustom">'.$value. ' ' .$currency. '</button>';		
+									echo '<button  class="buttonCustom">'.$value. ' ' .$currency. '</button>';		
 															
 							}
 
