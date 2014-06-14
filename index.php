@@ -13,7 +13,7 @@
 		<script src="js/config.js"></script>
 		<script src="js/skel.min.js"></script>
 		<script src="js/skel-panels.min.js"></script>
-		<!--   <script src="js/loader.js"></script>-->
+
 		<noscript>
 			<link rel="stylesheet" href="css/skel-noscript.css" />
 			<link rel="stylesheet" href="css/style.css" />
@@ -103,7 +103,7 @@
 
 							if ($counter == 2) {
 								$min = 61;
-								$max = 100;
+								$max = 92;
 							}
 
 							if ($cont > $min && $cont < $max) {	$value;
@@ -111,11 +111,15 @@
 								$value = substr($child -> value, 0, 8);
 								$currency = $child -> currency;
 
-								echo '<form method="post" action="changeBase.php">
+								echo("
+<form method='post' action='changeBase.php'>
+<input type='hidden' name='currency' value='$currency' >
+<input type='hidden' name='value' value='$value' >
+<input class='buttonCustom' type='submit' value='$value  $currency' name='like'>
 
-<input type="hidden" id="' . $currency . '" name="currency"" value="' . $currency . '">
-<input type="hidden" id="' . $currency . $cont . '" name="' . $value . '" value="' . $value . '" >
-<button id="' . $cont . '" type="submit"" class="buttonCustom"> ' . $value . '  ' . $currency . '</button>';
+</form>
+
+");
 
 							}
 

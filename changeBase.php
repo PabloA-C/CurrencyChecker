@@ -10,46 +10,42 @@
 		<div id="startpanel">
 			<?php
 
-			$currencyVal = $_POST['currency'];
-			$valueVal = $_POST['value'];
-
-
+			$newCurrency  = $_POST['currency'];
+			$newValue  = $_POST['value'];
+			
+			
 			$xml = new DOMDocument(1.0);
 
 			$base = $xml -> createElement("base");
 			$xml -> appendChild($base);
-			$base_value = $xml -> createTextNode($currencyVal);
+			$base_value = $xml -> createTextNode($newCurrency . $newVal);
 			$base -> appendChild($base_value);
 
-// 		
-			// $data = simplexml_load_file("data.xml");
-// 
-			// foreach ($data->children() as $child) {
-// 
-				// if ($child -> getName() != "base") {
-// 
-					// $item = $xml -> createElement("item");
-					// $xml -> appendChild($item);
-// 
-					// $currency = $xml -> createElement("currency");
-// 				
-// 
-					// $currency_value = $xml -> createTextNode($child->currency);
-// 
-					// $currency -> appendChild($currency_value);
-					// $item -> appendChild($currency);
-// 					
-// 					
-					// $val= $xml -> createElement("value");
-// 				
-					// $val_value = $xml -> createTextNode(substr($child -> value, 0, 8));
-// 
-					// $val-> appendChild($val_value);
-					// $item -> appendChild($val);
-// 			
-// 
-				// }
-			// }
+			$data = simplexml_load_file("data.xml");
+
+			foreach ($data->children() as $child) {
+
+				if ($child -> getName() != "base") {
+
+					$item = $xml -> createElement("item");
+					$xml -> appendChild($item);
+
+					$currency = $xml -> createElement("currency");
+
+					$currency_value = $xml -> createTextNode($child -> currency);
+
+					$currency -> appendChild($currency_value);
+					$item -> appendChild($currency);
+
+					$val = $xml -> createElement("value");
+
+					$val_value = $xml -> createTextNode(substr($child -> value, 0, 8));
+
+					$val -> appendChild($val_value);
+					$item -> appendChild($val);
+
+				}
+			}
 
 			$xml -> save("test.xml");
 
