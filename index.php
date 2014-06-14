@@ -129,13 +129,13 @@
 
 									}
 
-									$value = substr($value, 9, 8);
+									$value = substr($value, 0, 8);
 
 									echo(" <form method='post' action='upvote.php'>
 
-<input type='hidden' name='value' value='$currency/EUR' >
+<input type='hidden' name='value' value='$currency' >
 <input type='hidden' name='vae' value='$value' >
-<input type='submit' class='buttonCustom' value=' $value  $currency ' name='like'>
+<button type='submit' class='buttonCustom'> $value $currency </button>
 
 ");
 
