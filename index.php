@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+<<!DOCTYPE HTML>
 
 <html lang="en">
 	<head>
@@ -49,10 +49,10 @@
 						<a href="" class="fa fa-bar-chart-o"><span>Select a currency</span></a>
 						<ul>
 
-						<!--	<li OnClick="change('EUR');">
-								&#160&#160&#160EUR
-						</li> -->
-					
+							<!--	<li OnClick="change('EUR');">
+							&#160&#160&#160EUR
+							</li> -->
+
 						</ul>
 
 					</li>
@@ -71,58 +71,82 @@
 				</header>
 
 				<div class="row">
-					<div class="4u">
 
-						<!-- Feature -->
-						<section>
+					<?php
+					$xml = simplexml_load_file("data.xml");
 
-							<div  class="rate1">
-								<ul>
-<?php
-									$xml=simplexml_load_file("note.xml");
-									echo $xml->to . "
-									<br>
-									";
-									echo $xml->from . "
-									<br>
-									";
-									echo $xml->heading . "
-									<br>
-									";
-									echo $xml->body;
-									?>
+
+				
+					
+					for ($counter = 0; $counter < 3; $counter += 1) {
+
+						echo '	<div class="4u">
+								<!-- Feature -->
+								<section>
+
+								<div  class="rate1">
+								<ul> ';
+					
+						$cont = 1;				
+						foreach ($xml->children() as $child) {
+
+							$min=0;
+							$max=32;
 							
+							
+							if($counter==1){
+								$min=31;
+								$max=63;
+							}
+							
+							if($counter==2){
+								$min=63;
+								$max=100;
+							}
+							
+							
+							if($cont>$min && $cont<$max){
+								
+								$currency;
+								$value;
+								
+								foreach ($child->children() as $child) {
+											
+									
+										
+										if($child->getName()=="title"){
+											
+											$currency =   $child ;
+											
+										}
+										 
+										 	
+										if($child->getName()=="description"){
+											
+											$value=   $child ;
+											
+										}
+										 					
+										
+									}
+								
+	 								
+									echo '<li /> <button  class="buttonCustom">'.$value. ' ' .$currency. '</button>';		
+															
+							}
 
-								</ul>
-							</div>
-						</section>
+							$cont++;
+						}
 
-					</div>
-					<div class="4u">
+						echo '	</ul>
+								</div>
+								</section>
+								</div>';
 
-						<!-- Feature -->
-						<section>
-							<div  class="rate2">
-								<ul id="rate2">
+					}
+					?>
 
-								</ul>
-							</div>
-						</section>
-
-					</div>
-					<div class="4u">
-
-						<!-- Feature -->
-						<section>
-							<div  class="rate3">
-								<ul id="rate3">
-
-								</ul>
-							</div>
-						</section>
-
-					</div>
-				</div>
+				
 
 				<ul class="actions">
 					<li>

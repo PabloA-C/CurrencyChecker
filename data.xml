@@ -1,18 +1,6 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Exchange Rates For Euro</title>
-    <link>http://themoneyconverter.com/EUR/Exchange_Rates_For_Euro.aspx</link>
-    <description>RSS Exchange Rate Feed for Euro</description>
-    <lastBuildDate>Thu 24 Apr 2014 09:07:26 GMT</lastBuildDate>
-    <language>en-US</language>
-    <copyright>Copyright: (C) The Money Converter see http://themoneyconverter.com </copyright>
-    <docs>http://themoneyconverter.com/RSSFeeds.aspx</docs>
-    <ttl>61</ttl>
-    <image>
-      <title>Exchange Rates For Euro</title>
-      <url>http://themoneyconverter.com/images/TheMoneyConverter_sml.jpg</url>
-      <link>http://themoneyconverter.com/EUR/Exchange_Rates_For_Euro.aspx</link>
-    </image>
+<xml>
+  
+  
     <item>
       <title>AED/EUR</title>
       <link>http://themoneyconverter.com/EUR/AED.aspx</link>
@@ -664,5 +652,5 @@
       <description>1 Euro = 14.61439 South African Rand</description>
       <category>Africa</category>
     </item>
-  </channel>
-</rss>
+  
+</xml>
