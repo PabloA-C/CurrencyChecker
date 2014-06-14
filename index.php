@@ -21,14 +21,6 @@
 		</noscript>
 	</head>
 	<body class="homepage">
-		<ul>
-
-			<!--<li OnClick="change('EUR');">
-			&#160&#160&#160EUR
-			</li> -->
-
-		</ul>
-
 		<!-- Header Wrapper -->
 		<div id="header-wrapper">
 
@@ -70,97 +62,83 @@
 
 			<section id="features" class="container">
 
-				<header>
-					<div class="currency">
-						<h2>1<Strong> Eur </strong> is worth:</h2>
-					</div>
+				<?php
 
-				</header>
+				$xml = simplexml_load_file("data.xml");
 
-				<div class="row">
+				echo '<header>
+<div class="currency">
+<h2>1<Strong>';
 
-					<?php
-					$xml = simplexml_load_file("data.xml");
+				echo $xml -> base;
 
-					for ($counter = 0; $counter < 3; $counter += 1) {
+				echo '</strong> is worth:</h2>
+</div>
 
-						echo '	<div class="4u">
+</header>
+
+<div class="row">
+';
+
+				for ($counter = 0; $counter < 3; $counter += 1) {
+
+					echo '	<div class="4u">
 <!-- Feature -->
 <section>
 <div  class="rate1">
 <ul> ';
 
-						$cont = 1;
-						foreach ($xml->children() as $child) {
+					$cont = 1;
+					foreach ($xml->children() as $child) {
 
-							if ($child -> getName() != "base") {
+						if ($child -> getName() != "base") {
 
-								$min = 0;
-								$max = 31;
+							$min = 0;
+							$max = 31;
 
-								if ($counter == 1) {
-									$min = 30;
-									$max = 61;
-								}
-
-								if ($counter == 2) {
-									$min = 61;
-									$max = 100;
-								}
-
-								if ($cont > $min && $cont < $max) {	$value;
-
-									$value = "";
-									$currency = "";
-
-									foreach ($child->children() as $child) {
-
-										if ($child -> getName() == "currency") {
-
-											$currency = $child;
-
-										}
-
-										if ($child -> getName() == "value") {
-
-											$value = $child;
-
-										}
-
-									}
-
-									$value = substr($value, 0, 8);
-
-									echo(" <form method='post' action='upvote.php'>
-
-<input type='hidden' name='value' value='$currency' >
-<input type='hidden' name='vae' value='$value' >
-<button type='submit' class='buttonCustom'> $value $currency </button>
-
-");
-
-								}
-
-								$cont++;
+							if ($counter == 1) {
+								$min = 30;
+								$max = 61;
 							}
-						}
 
-						echo '	</ul>
+							if ($counter == 2) {
+								$min = 61;
+								$max = 100;
+							}
+
+							if ($cont > $min && $cont < $max) {	$value;
+
+								$value = substr($child -> value, 0, 8);
+								$currency = $child -> currency;
+
+								echo '<form method="post" action="changeBase.php">
+
+<input type="hidden" id="' . $currency . '" name="currency"" value="' . $currency . '">
+<input type="hidden" id="' . $currency . $cont . '" name="' . $value . '" value="' . $value . '" >
+<button id="' . $cont . '" type="submit"" class="buttonCustom"> ' . $value . '  ' . $currency . '</button>';
+
+							}
+
+							$cont++;
+						}
+					}
+
+					echo '	</ul>
 </div>
 </section>
 </div>';
 
-					}
-					?>
+				}
+				?>
 
-					<section id="save" class="container">
-						<ul class="actions">
-							<li>
-								<a href="#" class="button button-icon fa fa-file"  OnClick="save();">Export selection as PDF</a>
+				<section id="save" class="container">
+				<ul class="actions">
+				<li>
+				<a href="#" class="button button-icon fa fa-file"  OnClick="save();">Export selection as PDF</a>
 
-							</li>
-						</ul>
-					</section>
+				</li>
+				</ul>
+				</section>
 
 				</div>
 
@@ -177,7 +155,7 @@
 
 								<!-- Feature -->
 								<section>
-									<a href="http://regularjane.deviantart.com/art/Old-Reads-363428235" class="image image-full"><img src="images/pic01.jpg" alt="" /></a>
+									<a href="" class="image image-full"><img src="images/pic01.jpg" alt="" /></a>
 									<header>
 										<h3>Application purpose</h3>
 									</header>
@@ -190,12 +168,12 @@
 
 								<!-- Feature -->
 								<section>
-									<a href="http://regularjane.deviantart.com/art/Nutella-359114563" class="image image-full"><img src="images/pic02.jpg" alt="" /></a>
+									<a href="" class="image image-full"><img src="images/pic02.jpg" alt="" /></a>
 									<header>
 										<h3>About me</h3>
 									</header>
 									<p>
-										My name is Pablo Manuel Arjonilla Cobreros, I'm an Computer Science erasmus student on Łódź, Poland.
+										I'm Pablo Arjonilla, a Computer Science erasmus student on Łódź, Poland.
 									</p>
 								</section>
 
@@ -204,12 +182,12 @@
 
 								<!-- Feature -->
 								<section>
-									<a href="http://regularjane.deviantart.com/art/Solo-Spring-358679786" class="image image-full"><img src="images/pic03.jpg" alt="" /></a>
+									<a href="" class="image image-full"><img src="images/pic03.jpg" alt="" /></a>
 									<header>
 										<h3>Why a web application?</h3>
 									</header>
 									<p>
-										Web applications are an wasy way to reach more users across the world, and is a good way to implement the XML functionalities required for the project.
+										Web applications are the best way to reach users around the world. HTML, PHP and Javascript provide us powerful tools to work with XML and XSLT, and make it look good at the same time!
 									</p>
 								</section>
 

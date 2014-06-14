@@ -1,0 +1,366 @@
+<?xml version="1"?>
+<base>ZAR</base>
+<item>
+	<currency>AED</currency>
+	<value>5.07623</value>
+</item>
+<item>
+	<currency>ARS</currency>
+	<value>11.05850</value>
+</item>
+<item>
+	<currency>AUD</currency>
+	<value>1.48900</value>
+</item>
+<item>
+	<currency>AWG</currency>
+	<value>2.47419</value>
+</item>
+<item>
+	<currency>BAM</currency>
+	<value>1.95583</value>
+</item>
+<item>
+	<currency>BBD</currency>
+	<value>2.76446</value>
+</item>
+<item>
+	<currency>BDT</currency>
+	<value>107.1479</value>
+</item>
+<item>
+	<currency>BGN</currency>
+	<value>1.95583</value>
+</item>
+<item>
+	<currency>BHD</currency>
+	<value>0.51972</value>
+</item>
+<item>
+	<currency>BMD</currency>
+	<value>1.38223</value>
+</item>
+<item>
+	<currency>BOB</currency>
+	<value>9.55929</value>
+</item>
+<item>
+	<currency>BRL</currency>
+	<value>3.07084</value>
+</item>
+<item>
+	<currency>BSD</currency>
+	<value>1.38223</value>
+</item>
+<item>
+	<currency>CAD</currency>
+	<value>1.52432</value>
+</item>
+<item>
+	<currency>CHF</currency>
+	<value>1.22031</value>
+</item>
+<item>
+	<currency>CLP</currency>
+	<value>776.9509</value>
+</item>
+<item>
+	<currency>CNY</currency>
+	<value>8.52214</value>
+</item>
+<item>
+	<currency>COP</currency>
+	<value>2675.780</value>
+</item>
+<item>
+	<currency>CYP</currency>
+	<value>0.58527</value>
+</item>
+<item>
+	<currency>CZK</currency>
+	<value>27.45900</value>
+</item>
+<item>
+	<currency>DKK</currency>
+	<value>7.46038</value>
+</item>
+<item>
+	<currency>DOP</currency>
+	<value>59.72980</value>
+</item>
+<item>
+	<currency>EEK</currency>
+	<value>15.64664</value>
+</item>
+<item>
+	<currency>EGP</currency>
+	<value>9.66580</value>
+</item>
+<item>
+	<currency>EUR</currency>
+	<value>1.00000</value>
+</item>
+<item>
+	<currency>FJD</currency>
+	<value>2.54453</value>
+</item>
+<item>
+	<currency>GBP</currency>
+	<value>0.82319</value>
+</item>
+<item>
+	<currency>GHS</currency>
+	<value>3.83885</value>
+</item>
+<item>
+	<currency>GMD</currency>
+	<value>52.66850</value>
+</item>
+<item>
+	<currency>GTQ</currency>
+	<value>10.71410</value>
+</item>
+<item>
+	<currency>HKD</currency>
+	<value>10.71227</value>
+</item>
+<item>
+	<currency>HRK</currency>
+	<value>7.61205</value>
+</item>
+<item>
+	<currency>HUF</currency>
+	<value>307.7800</value>
+</item>
+<item>
+	<currency>IDR</currency>
+	<value>16078.18</value>
+</item>
+<item>
+	<currency>ILS</currency>
+	<value>4.81360</value>
+</item>
+<item>
+	<currency>INR</currency>
+	<value>84.41558</value>
+</item>
+<item>
+	<currency>ISK</currency>
+	<value>154.9900</value>
+</item>
+<item>
+	<currency>JMD</currency>
+	<value>151.4501</value>
+</item>
+<item>
+	<currency>JOD</currency>
+	<value>0.98000</value>
+</item>
+<item>
+	<currency>JPY</currency>
+	<value>141.4839</value>
+</item>
+<item>
+	<currency>KES</currency>
+	<value>120.3168</value>
+</item>
+<item>
+	<currency>KHR</currency>
+	<value>5539.176</value>
+</item>
+<item>
+	<currency>KRW</currency>
+	<value>1436.358</value>
+</item>
+<item>
+	<currency>KWD</currency>
+	<value>0.38880</value>
+</item>
+<item>
+	<currency>LBP</currency>
+	<value>2083.709</value>
+</item>
+<item>
+	<currency>LKR</currency>
+	<value>180.6065</value>
+</item>
+<item>
+	<currency>LTL</currency>
+	<value>3.45280</value>
+</item>
+<item>
+	<currency>LVL</currency>
+	<value>0.70280</value>
+</item>
+<item>
+	<currency>MAD</currency>
+	<value>11.23008</value>
+</item>
+<item>
+	<currency>MDL</currency>
+	<value>18.57910</value>
+</item>
+<item>
+	<currency>MGA</currency>
+	<value>3199.430</value>
+</item>
+<item>
+	<currency>MKD</currency>
+	<value>61.64120</value>
+</item>
+<item>
+	<currency>MUR</currency>
+	<value>41.50310</value>
+</item>
+<item>
+	<currency>MVR</currency>
+	<value>21.30280</value>
+</item>
+<item>
+	<currency>MXN</currency>
+	<value>18.06830</value>
+</item>
+<item>
+	<currency>MYR</currency>
+	<value>4.51490</value>
+</item>
+<item>
+	<currency>NAD</currency>
+	<value>14.61439</value>
+</item>
+<item>
+	<currency>NGN</currency>
+	<value>223.4771</value>
+</item>
+<item>
+	<currency>NOK</currency>
+	<value>8.27799</value>
+</item>
+<item>
+	<currency>NPR</currency>
+	<value>135.0649</value>
+</item>
+<item>
+	<currency>NZD</currency>
+	<value>1.60720</value>
+</item>
+<item>
+	<currency>OMR</currency>
+	<value>0.53146</value>
+</item>
+<item>
+	<currency>PAB</currency>
+	<value>1.38223</value>
+</item>
+<item>
+	<currency>PEN</currency>
+	<value>3.85850</value>
+</item>
+<item>
+	<currency>PHP</currency>
+	<value>61.85135</value>
+</item>
+<item>
+	<currency>PKR</currency>
+	<value>135.3581</value>
+</item>
+<item>
+	<currency>PLN</currency>
+	<value>4.18896</value>
+</item>
+<item>
+	<currency>QAR</currency>
+	<value>5.03131</value>
+</item>
+<item>
+	<currency>RON</currency>
+	<value>4.46780</value>
+</item>
+<item>
+	<currency>RSD</currency>
+	<value>115.5323</value>
+</item>
+<item>
+	<currency>RUB</currency>
+	<value>49.30137</value>
+</item>
+<item>
+	<currency>SAR</currency>
+	<value>5.18336</value>
+</item>
+<item>
+	<currency>SCR</currency>
+	<value>16.84330</value>
+</item>
+<item>
+	<currency>SEK</currency>
+	<value>9.07602</value>
+</item>
+<item>
+	<currency>SGD</currency>
+	<value>1.73727</value>
+</item>
+<item>
+	<currency>SYP</currency>
+	<value>204.5952</value>
+</item>
+<item>
+	<currency>THB</currency>
+	<value>44.70435</value>
+</item>
+<item>
+	<currency>TND</currency>
+	<value>2.20240</value>
+</item>
+<item>
+	<currency>TRY</currency>
+	<value>2.96561</value>
+</item>
+<item>
+	<currency>TWD</currency>
+	<value>41.83780</value>
+</item>
+<item>
+	<currency>UAH</currency>
+	<value>15.90731</value>
+</item>
+<item>
+	<currency>UGX</currency>
+	<value>3473.970</value>
+</item>
+<item>
+	<currency>USD</currency>
+	<value>1.38223</value>
+</item>
+<item>
+	<currency>UYU</currency>
+	<value>31.75540</value>
+</item>
+<item>
+	<currency>VEF</currency>
+	<value>8.70804</value>
+</item>
+<item>
+	<currency>VND</currency>
+	<value>29163.31</value>
+</item>
+<item>
+	<currency>XAF</currency>
+	<value>655.9570</value>
+</item>
+<item>
+	<currency>XCD</currency>
+	<value>3.73202</value>
+</item>
+<item>
+	<currency>XOF</currency>
+	<value>655.9570</value>
+</item>
+<item>
+	<currency>XPF</currency>
+	<value>119.3317</value>
+</item>
+<item>
+	<currency>ZAR</currency>
+	<value>14.61439</value>
+</item>
