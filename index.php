@@ -40,24 +40,6 @@
 		<!-- Features Wrapper -->
 		<div id="features-wrapper">
 
-			<nav id="nav">
-				<ul>
-
-					<li>
-
-						<a href="" class="fa fa-bar-chart-o"><span>Select a currency</span></a>
-						<ul>
-
-							<!--	<li OnClick="change('EUR');">
-							&#160&#160&#160EUR
-							</li> -->
-
-						</ul>
-
-					</li>
-
-				</ul>
-			</nav>
 			<!-- Features -->
 
 			<section id="features" class="container">
@@ -66,19 +48,18 @@
 
 				$xml = simplexml_load_file("data.xml");
 
-				echo '<header>
-<div class="currency">
-<h2>1<Strong>';
+				echo("
 
-				echo $xml -> base;
+<header>
+<div class='currency'>
+<h2> 1 <Strong>	<a  class='fa fa-bar-chart-o'><span> $xml->base</span></a></strong>  is worth:</h2>
 
-				echo '</strong> is worth:</h2>
 </div>
 
 </header>
+");
 
-<div class="row">
-';
+				echo '<div class="row">';
 
 				for ($counter = 0; $counter < 3; $counter += 1) {
 
@@ -135,16 +116,20 @@
 				}
 				?>
 
-				<section id="save" class="container">
-				<ul class="actions">
-				<li>
-				<a href="#" class="button button-icon fa fa-file"  OnClick="save();">Export selection as PDF</a>
-
-				</li>
-				</ul>
-				</section>
-
 				</div>
+
+				<section id="save" class="container">
+					<ul class="actions">
+						<li>
+
+							<form method='post' action='getPDF.php'>
+								<button class='buttonCustom' type='submit'>
+									Export selection as PDF
+								</button>
+
+						</li>
+					</ul>
+				</section>
 
 				<div id="features-wrapper">
 
@@ -180,7 +165,6 @@
 										I'm Pablo Arjonilla, a Computer Science erasmus student on Łódź, Poland.
 									</p>
 								</section>
-
 							</div>
 							<div class="4u">
 
