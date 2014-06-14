@@ -1,0 +1,668 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exchange Rates For Euro</title>
+    <link>http://themoneyconverter.com/EUR/Exchange_Rates_For_Euro.aspx</link>
+    <description>RSS Exchange Rate Feed for Euro</description>
+    <lastBuildDate>Thu 24 Apr 2014 09:07:26 GMT</lastBuildDate>
+    <language>en-US</language>
+    <copyright>Copyright: (C) The Money Converter see http://themoneyconverter.com </copyright>
+    <docs>http://themoneyconverter.com/RSSFeeds.aspx</docs>
+    <ttl>61</ttl>
+    <image>
+      <title>Exchange Rates For Euro</title>
+      <url>http://themoneyconverter.com/images/TheMoneyConverter_sml.jpg</url>
+      <link>http://themoneyconverter.com/EUR/Exchange_Rates_For_Euro.aspx</link>
+    </image>
+    <item>
+      <title>AED/EUR</title>
+      <link>http://themoneyconverter.com/EUR/AED.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 5.07623 Arab Emirates Dirham</description>
+      <category>Middle East</category>
+    </item>
+    <item>
+      <title>ARS/EUR</title>
+      <link>http://themoneyconverter.com/EUR/ARS.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 11.05850 Argentine Peso</description>
+      <category>South America</category>
+    </item>
+    <item>
+      <title>AUD/EUR</title>
+      <link>http://themoneyconverter.com/EUR/AUD.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 1.48900 Australian Dollar</description>
+      <category>Oceania</category>
+    </item>
+    <item>
+      <title>AWG/EUR</title>
+      <link>http://themoneyconverter.com/EUR/AWG.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 2.47419 Aruban Florin</description>
+      <category>North America</category>
+    </item>
+    <item>
+      <title>BAM/EUR</title>
+      <link>http://themoneyconverter.com/EUR/BAM.aspx</link>
+      <pubDate>Thu 24 Apr 2014 00:00:00 GMT</pubDate>
+      <description>1 Euro = 1.95583 Bosnia and Herzegovina</description>
+      <category>Europe</category>
+    </item>
+    <item>
+      <title>BBD/EUR</title>
+      <link>http://themoneyconverter.com/EUR/BBD.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 2.76446 Barbadian Dollar</description>
+      <category>North America</category>
+    </item>
+    <item>
+      <title>BDT/EUR</title>
+      <link>http://themoneyconverter.com/EUR/BDT.aspx</link>
+      <pubDate>Thu 24 Apr 2014 05:23:28 GMT</pubDate>
+      <description>1 Euro = 107.14790 Bangladeshi Taka</description>
+      <category>Asia</category>
+    </item>
+    <item>
+      <title>BGN/EUR</title>
+      <link>http://themoneyconverter.com/EUR/BGN.aspx</link>
+      <pubDate>Thu 24 Apr 2014 00:00:00 GMT</pubDate>
+      <description>1 Euro = 1.95583 Bulgarian Lev</description>
+      <category>Europe</category>
+    </item>
+    <item>
+      <title>BHD/EUR</title>
+      <link>http://themoneyconverter.com/EUR/BHD.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 0.51972 Bahraini Dinar</description>
+      <category>Middle East</category>
+    </item>
+    <item>
+      <title>BMD/EUR</title>
+      <link>http://themoneyconverter.com/EUR/BMD.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 1.38223 Bermudian Dollar</description>
+      <category>North America</category>
+    </item>
+    <item>
+      <title>BOB/EUR</title>
+      <link>http://themoneyconverter.com/EUR/BOB.aspx</link>
+      <pubDate>Thu 24 Apr 2014 00:00:00 GMT</pubDate>
+      <description>1 Euro = 9.55929 Bolivian Boliviano</description>
+      <category>South America</category>
+    </item>
+    <item>
+      <title>BRL/EUR</title>
+      <link>http://themoneyconverter.com/EUR/BRL.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 3.07084 Brazilian Real</description>
+      <category>South America</category>
+    </item>
+    <item>
+      <title>BSD/EUR</title>
+      <link>http://themoneyconverter.com/EUR/BSD.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 1.38223 Bahamian Dollar</description>
+      <category>North America</category>
+    </item>
+    <item>
+      <title>CAD/EUR</title>
+      <link>http://themoneyconverter.com/EUR/CAD.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 1.52432 Canadian Dollar</description>
+      <category>North America</category>
+    </item>
+    <item>
+      <title>CHF/EUR</title>
+      <link>http://themoneyconverter.com/EUR/CHF.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 1.22031 Swiss Franc</description>
+      <category>Europe</category>
+    </item>
+    <item>
+      <title>CLP/EUR</title>
+      <link>http://themoneyconverter.com/EUR/CLP.aspx</link>
+      <pubDate>Thu 24 Apr 2014 07:14:27 GMT</pubDate>
+      <description>1 Euro = 776.95090 Chilean Peso</description>
+      <category>South America</category>
+    </item>
+    <item>
+      <title>CNY/EUR</title>
+      <link>http://themoneyconverter.com/EUR/CNY.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 8.52214 Chinese Yuan</description>
+      <category>Asia</category>
+    </item>
+    <item>
+      <title>COP/EUR</title>
+      <link>http://themoneyconverter.com/EUR/COP.aspx</link>
+      <pubDate>Thu 24 Apr 2014 07:14:29 GMT</pubDate>
+      <description>1 Euro = 2675.78030 Colombian Peso</description>
+      <category>South America</category>
+    </item>
+    <item>
+      <title>CYP/EUR</title>
+      <link>http://themoneyconverter.com/EUR/CYP.aspx</link>
+      <pubDate>Thu 24 Apr 2014 00:00:00 GMT</pubDate>
+      <description>1 Euro = 0.58527 Cyprus Pound</description>
+      <category>Europe</category>
+    </item>
+    <item>
+      <title>CZK/EUR</title>
+      <link>http://themoneyconverter.com/EUR/CZK.aspx</link>
+      <pubDate>Thu 24 Apr 2014 00:00:00 GMT</pubDate>
+      <description>1 Euro = 27.45900 Czech Koruna</description>
+      <category>Europe</category>
+    </item>
+    <item>
+      <title>DKK/EUR</title>
+      <link>http://themoneyconverter.com/EUR/DKK.aspx</link>
+      <pubDate>Thu 24 Apr 2014 00:00:00 GMT</pubDate>
+      <description>1 Euro = 7.46038 Danish Krone</description>
+      <category>Europe</category>
+    </item>
+    <item>
+      <title>DOP/EUR</title>
+      <link>http://themoneyconverter.com/EUR/DOP.aspx</link>
+      <pubDate>Thu 24 Apr 2014 07:14:29 GMT</pubDate>
+      <description>1 Euro = 59.72980 Dominican Peso</description>
+      <category>North America</category>
+    </item>
+    <item>
+      <title>EEK/EUR</title>
+      <link>http://themoneyconverter.com/EUR/EEK.aspx</link>
+      <pubDate>Thu 24 Apr 2014 00:00:00 GMT</pubDate>
+      <description>1 Euro = 15.64664 Estonia Kroon</description>
+      <category>Europe</category>
+    </item>
+    <item>
+      <title>EGP/EUR</title>
+      <link>http://themoneyconverter.com/EUR/EGP.aspx</link>
+      <pubDate>Thu 24 Apr 2014 07:14:28 GMT</pubDate>
+      <description>1 Euro = 9.66580 Egyptian Pound</description>
+      <category>Africa</category>
+    </item>
+    <item>
+      <title>EUR/EUR</title>
+      <link>http://themoneyconverter.com/EUR/EUR.aspx</link>
+      <pubDate>Thu 24 Apr 2014 00:00:00 GMT</pubDate>
+      <description>1 Euro = 1.00000 Euro</description>
+      <category>Europe</category>
+    </item>
+    <item>
+      <title>FJD/EUR</title>
+      <link>http://themoneyconverter.com/EUR/FJD.aspx</link>
+      <pubDate>Thu 24 Apr 2014 00:00:00 GMT</pubDate>
+      <description>1 Euro = 2.54453 Fijian Dollar</description>
+      <category>Oceania</category>
+    </item>
+    <item>
+      <title>GBP/EUR</title>
+      <link>http://themoneyconverter.com/EUR/GBP.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 0.82319 British Pound Sterling</description>
+      <category>Europe</category>
+    </item>
+    <item>
+      <title>GHS/EUR</title>
+      <link>http://themoneyconverter.com/EUR/GHS.aspx</link>
+      <pubDate>Thu 24 Apr 2014 06:37:00 GMT</pubDate>
+      <description>1 Euro = 3.83885 Ghana Cedi</description>
+      <category>Africa</category>
+    </item>
+    <item>
+      <title>GMD/EUR</title>
+      <link>http://themoneyconverter.com/EUR/GMD.aspx</link>
+      <pubDate>Thu 24 Apr 2014 05:23:28 GMT</pubDate>
+      <description>1 Euro = 52.66850 Gambian Dalasi</description>
+      <category>Africa</category>
+    </item>
+    <item>
+      <title>GTQ/EUR</title>
+      <link>http://themoneyconverter.com/EUR/GTQ.aspx</link>
+      <pubDate>Thu 24 Apr 2014 05:23:29 GMT</pubDate>
+      <description>1 Euro = 10.71410 Guatemalan Quetzal</description>
+      <category>North America</category>
+    </item>
+    <item>
+      <title>HKD/EUR</title>
+      <link>http://themoneyconverter.com/EUR/HKD.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 10.71227 Hong Kong Dollar</description>
+      <category>Asia</category>
+    </item>
+    <item>
+      <title>HRK/EUR</title>
+      <link>http://themoneyconverter.com/EUR/HRK.aspx</link>
+      <pubDate>Thu 24 Apr 2014 06:37:27 GMT</pubDate>
+      <description>1 Euro = 7.61205 Croatian Kuna</description>
+      <category>Europe</category>
+    </item>
+    <item>
+      <title>HUF/EUR</title>
+      <link>http://themoneyconverter.com/EUR/HUF.aspx</link>
+      <pubDate>Thu 24 Apr 2014 00:00:00 GMT</pubDate>
+      <description>1 Euro = 307.78000 Hungarian Forint</description>
+      <category>Europe</category>
+    </item>
+    <item>
+      <title>IDR/EUR</title>
+      <link>http://themoneyconverter.com/EUR/IDR.aspx</link>
+      <pubDate>Thu 24 Apr 2014 07:14:28 GMT</pubDate>
+      <description>1 Euro = 16078.18460 Indonesian Rupiah</description>
+      <category>Asia</category>
+    </item>
+    <item>
+      <title>ILS/EUR</title>
+      <link>http://themoneyconverter.com/EUR/ILS.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 4.81360 Israeli Sheqel</description>
+      <category>Middle East</category>
+    </item>
+    <item>
+      <title>INR/EUR</title>
+      <link>http://themoneyconverter.com/EUR/INR.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 84.41558 Indian Rupee</description>
+      <category>Asia</category>
+    </item>
+    <item>
+      <title>ISK/EUR</title>
+      <link>http://themoneyconverter.com/EUR/ISK.aspx</link>
+      <pubDate>Thu 24 Apr 2014 00:00:00 GMT</pubDate>
+      <description>1 Euro = 154.99000 Icelandic Krona</description>
+      <category>Europe</category>
+    </item>
+    <item>
+      <title>JMD/EUR</title>
+      <link>http://themoneyconverter.com/EUR/JMD.aspx</link>
+      <pubDate>Thu 24 Apr 2014 07:14:30 GMT</pubDate>
+      <description>1 Euro = 151.45010 Jamaican Dollar</description>
+      <category>North America</category>
+    </item>
+    <item>
+      <title>JOD/EUR</title>
+      <link>http://themoneyconverter.com/EUR/JOD.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 0.98000 Jordanian Dinar</description>
+      <category>Middle East</category>
+    </item>
+    <item>
+      <title>JPY/EUR</title>
+      <link>http://themoneyconverter.com/EUR/JPY.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 141.48397 Japanese Yen</description>
+      <category>Asia</category>
+    </item>
+    <item>
+      <title>KES/EUR</title>
+      <link>http://themoneyconverter.com/EUR/KES.aspx</link>
+      <pubDate>Thu 24 Apr 2014 07:14:31 GMT</pubDate>
+      <description>1 Euro = 120.31680 Kenyan Shilling</description>
+      <category>Africa</category>
+    </item>
+    <item>
+      <title>KHR/EUR</title>
+      <link>http://themoneyconverter.com/EUR/KHR.aspx</link>
+      <pubDate>Thu 24 Apr 2014 05:23:29 GMT</pubDate>
+      <description>1 Euro = 5539.17680 Cambodian Riel</description>
+      <category>Asia</category>
+    </item>
+    <item>
+      <title>KRW/EUR</title>
+      <link>http://themoneyconverter.com/EUR/KRW.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 1436.35862 South Korean Won</description>
+      <category>Asia</category>
+    </item>
+    <item>
+      <title>KWD/EUR</title>
+      <link>http://themoneyconverter.com/EUR/KWD.aspx</link>
+      <pubDate>Thu 24 Apr 2014 07:14:31 GMT</pubDate>
+      <description>1 Euro = 0.38880 Kuwaiti Dinar</description>
+      <category>Middle East</category>
+    </item>
+    <item>
+      <title>LAK/EUR</title>
+      <link>http://themoneyconverter.com/EUR/LAK.aspx</link>
+      <pubDate>Thu 24 Apr 2014 05:23:29 GMT</pubDate>
+      <description>1 Euro = 11120.51560 Lao Kip</description>
+      <category>Asia</category>
+    </item>
+    <item>
+      <title>LBP/EUR</title>
+      <link>http://themoneyconverter.com/EUR/LBP.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 2083.70969 Lebanese Pound</description>
+      <category>Middle East</category>
+    </item>
+    <item>
+      <title>LKR/EUR</title>
+      <link>http://themoneyconverter.com/EUR/LKR.aspx</link>
+      <pubDate>Thu 24 Apr 2014 07:14:31 GMT</pubDate>
+      <description>1 Euro = 180.60650 Sri Lankan Rupee</description>
+      <category>Asia</category>
+    </item>
+    <item>
+      <title>LTL/EUR</title>
+      <link>http://themoneyconverter.com/EUR/LTL.aspx</link>
+      <pubDate>Thu 24 Apr 2014 00:00:00 GMT</pubDate>
+      <description>1 Euro = 3.45280 Lithuanian Litas</description>
+      <category>Europe</category>
+    </item>
+    <item>
+      <title>LVL/EUR</title>
+      <link>http://themoneyconverter.com/EUR/LVL.aspx</link>
+      <pubDate>Thu 24 Apr 2014 00:00:00 GMT</pubDate>
+      <description>1 Euro = 0.70280 Latvian Lats</description>
+      <category>Europe</category>
+    </item>
+    <item>
+      <title>MAD/EUR</title>
+      <link>http://themoneyconverter.com/EUR/MAD.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 11.23008 Moroccan Dirham</description>
+      <category>Africa</category>
+    </item>
+    <item>
+      <title>MDL/EUR</title>
+      <link>http://themoneyconverter.com/EUR/MDL.aspx</link>
+      <pubDate>Thu 24 Apr 2014 05:23:30 GMT</pubDate>
+      <description>1 Euro = 18.57910 Moldovan Leu</description>
+      <category>Europe</category>
+    </item>
+    <item>
+      <title>MGA/EUR</title>
+      <link>http://themoneyconverter.com/EUR/MGA.aspx</link>
+      <pubDate>Thu 24 Apr 2014 00:00:00 GMT</pubDate>
+      <description>1 Euro = 3199.43000 Malagasy Ariary</description>
+      <category>Africa</category>
+    </item>
+    <item>
+      <title>MKD/EUR</title>
+      <link>http://themoneyconverter.com/EUR/MKD.aspx</link>
+      <pubDate>Thu 24 Apr 2014 05:23:31 GMT</pubDate>
+      <description>1 Euro = 61.64120 Macedonian Denar</description>
+      <category>Europe</category>
+    </item>
+    <item>
+      <title>MUR/EUR</title>
+      <link>http://themoneyconverter.com/EUR/MUR.aspx</link>
+      <pubDate>Thu 24 Apr 2014 05:23:31 GMT</pubDate>
+      <description>1 Euro = 41.50310 Mauritian Rupee</description>
+      <category>Africa</category>
+    </item>
+    <item>
+      <title>MVR/EUR</title>
+      <link>http://themoneyconverter.com/EUR/MVR.aspx</link>
+      <pubDate>Thu 24 Apr 2014 05:23:32 GMT</pubDate>
+      <description>1 Euro = 21.30280 Maldivian Rufiyaa</description>
+      <category>Asia</category>
+    </item>
+    <item>
+      <title>MXN/EUR</title>
+      <link>http://themoneyconverter.com/EUR/MXN.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 18.06830 Mexican Peso</description>
+      <category>North America</category>
+    </item>
+    <item>
+      <title>MYR/EUR</title>
+      <link>http://themoneyconverter.com/EUR/MYR.aspx</link>
+      <pubDate>Thu 24 Apr 2014 07:14:28 GMT</pubDate>
+      <description>1 Euro = 4.51490 Malaysian Ringgit</description>
+      <category>Asia</category>
+    </item>
+    <item>
+      <title>NAD/EUR</title>
+      <link>http://themoneyconverter.com/EUR/NAD.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 14.61439 Namibian Dollar</description>
+      <category>Africa</category>
+    </item>
+    <item>
+      <title>NGN/EUR</title>
+      <link>http://themoneyconverter.com/EUR/NGN.aspx</link>
+      <pubDate>Thu 24 Apr 2014 07:14:31 GMT</pubDate>
+      <description>1 Euro = 223.47710 Nigerian Naira</description>
+      <category>Africa</category>
+    </item>
+    <item>
+      <title>NOK/EUR</title>
+      <link>http://themoneyconverter.com/EUR/NOK.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 8.27799 Norwegian Krone</description>
+      <category>Europe</category>
+    </item>
+    <item>
+      <title>NPR/EUR</title>
+      <link>http://themoneyconverter.com/EUR/NPR.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 135.06493 Nepalese Rupee</description>
+      <category>Asia</category>
+    </item>
+    <item>
+      <title>NZD/EUR</title>
+      <link>http://themoneyconverter.com/EUR/NZD.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 1.60720 New Zealand Dollar</description>
+      <category>Oceania</category>
+    </item>
+    <item>
+      <title>OMR/EUR</title>
+      <link>http://themoneyconverter.com/EUR/OMR.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 0.53146 Omani Rial</description>
+      <category>Middle East</category>
+    </item>
+    <item>
+      <title>PAB/EUR</title>
+      <link>http://themoneyconverter.com/EUR/PAB.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 1.38223 Panamanian Balboa</description>
+      <category>North America</category>
+    </item>
+    <item>
+      <title>PEN/EUR</title>
+      <link>http://themoneyconverter.com/EUR/PEN.aspx</link>
+      <pubDate>Thu 24 Apr 2014 07:14:30 GMT</pubDate>
+      <description>1 Euro = 3.85850 Peruvian Sol</description>
+      <category>South America</category>
+    </item>
+    <item>
+      <title>PHP/EUR</title>
+      <link>http://themoneyconverter.com/EUR/PHP.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 61.85135 Philippine Peso</description>
+      <category>Asia</category>
+    </item>
+    <item>
+      <title>PKR/EUR</title>
+      <link>http://themoneyconverter.com/EUR/PKR.aspx</link>
+      <pubDate>Thu 24 Apr 2014 07:14:28 GMT</pubDate>
+      <description>1 Euro = 135.35810 Pakistani Rupee</description>
+      <category>Asia</category>
+    </item>
+    <item>
+      <title>PLN/EUR</title>
+      <link>http://themoneyconverter.com/EUR/PLN.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 4.18896 Polish Zloty</description>
+      <category>Europe</category>
+    </item>
+    <item>
+      <title>PYG/EUR</title>
+      <link>http://themoneyconverter.com/EUR/PYG.aspx</link>
+      <pubDate>Thu 24 Apr 2014 05:23:33 GMT</pubDate>
+      <description>1 Euro = 6114.88670 Paraguayan Guaraní</description>
+      <category>South America</category>
+    </item>
+    <item>
+      <title>QAR/EUR</title>
+      <link>http://themoneyconverter.com/EUR/QAR.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 5.03131 Qatari Riyal</description>
+      <category>Middle East</category>
+    </item>
+    <item>
+      <title>RON/EUR</title>
+      <link>http://themoneyconverter.com/EUR/RON.aspx</link>
+      <pubDate>Thu 24 Apr 2014 00:00:00 GMT</pubDate>
+      <description>1 Euro = 4.46780 Romanian Leu</description>
+      <category>Europe</category>
+    </item>
+    <item>
+      <title>RSD/EUR</title>
+      <link>http://themoneyconverter.com/EUR/RSD.aspx</link>
+      <pubDate>Thu 24 Apr 2014 06:37:00 GMT</pubDate>
+      <description>1 Euro = 115.53230 Serbian Dinar</description>
+      <category>Europe</category>
+    </item>
+    <item>
+      <title>RUB/EUR</title>
+      <link>http://themoneyconverter.com/EUR/RUB.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 49.30137 Russian Rouble</description>
+      <category>Europe</category>
+    </item>
+    <item>
+      <title>SAR/EUR</title>
+      <link>http://themoneyconverter.com/EUR/SAR.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 5.18336 Saudi Riyal</description>
+      <category>Middle East</category>
+    </item>
+    <item>
+      <title>SCR/EUR</title>
+      <link>http://themoneyconverter.com/EUR/SCR.aspx</link>
+      <pubDate>Thu 24 Apr 2014 05:23:34 GMT</pubDate>
+      <description>1 Euro = 16.84330 Seychellois Rupee</description>
+      <category>Africa</category>
+    </item>
+    <item>
+      <title>SEK/EUR</title>
+      <link>http://themoneyconverter.com/EUR/SEK.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 9.07602 Swedish Krona</description>
+      <category>Europe</category>
+    </item>
+    <item>
+      <title>SGD/EUR</title>
+      <link>http://themoneyconverter.com/EUR/SGD.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 1.73727 Singapore Dollar</description>
+      <category>Asia</category>
+    </item>
+    <item>
+      <title>SYP/EUR</title>
+      <link>http://themoneyconverter.com/EUR/SYP.aspx</link>
+      <pubDate>Thu 24 Apr 2014 05:23:35 GMT</pubDate>
+      <description>1 Euro = 204.59520 Syrian Pound</description>
+      <category>Middle East</category>
+    </item>
+    <item>
+      <title>THB/EUR</title>
+      <link>http://themoneyconverter.com/EUR/THB.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 44.70435 Thai Baht</description>
+      <category>Asia</category>
+    </item>
+    <item>
+      <title>TND/EUR</title>
+      <link>http://themoneyconverter.com/EUR/TND.aspx</link>
+      <pubDate>Thu 24 Apr 2014 05:23:37 GMT</pubDate>
+      <description>1 Euro = 2.20240 Tunisian Dinar</description>
+      <category>Africa</category>
+    </item>
+    <item>
+      <title>TRY/EUR</title>
+      <link>http://themoneyconverter.com/EUR/TRY.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 2.96561 Turkish Lira</description>
+      <category>Europe</category>
+    </item>
+    <item>
+      <title>TWD/EUR</title>
+      <link>http://themoneyconverter.com/EUR/TWD.aspx</link>
+      <pubDate>Thu 24 Apr 2014 07:14:32 GMT</pubDate>
+      <description>1 Euro = 41.83780 Taiwanese Dollar</description>
+      <category>Asia</category>
+    </item>
+    <item>
+      <title>UAH/EUR</title>
+      <link>http://themoneyconverter.com/EUR/UAH.aspx</link>
+      <pubDate>Thu 24 Apr 2014 06:37:45 GMT</pubDate>
+      <description>1 Euro = 15.90731 Ukraine Hryvnia</description>
+      <category>Europe</category>
+    </item>
+    <item>
+      <title>UGX/EUR</title>
+      <link>http://themoneyconverter.com/EUR/UGX.aspx</link>
+      <pubDate>Thu 24 Apr 2014 05:23:38 GMT</pubDate>
+      <description>1 Euro = 3473.97090 Ugandan Shilling</description>
+      <category>Africa</category>
+    </item>
+    <item>
+      <title>USD/EUR</title>
+      <link>http://themoneyconverter.com/EUR/USD.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 1.38223 United States Dollar</description>
+      <category>North America</category>
+    </item>
+    <item>
+      <title>UYU/EUR</title>
+      <link>http://themoneyconverter.com/EUR/UYU.aspx</link>
+      <pubDate>Thu 24 Apr 2014 07:14:32 GMT</pubDate>
+      <description>1 Euro = 31.75540 Uruguayan Peso</description>
+      <category>South America</category>
+    </item>
+    <item>
+      <title>VEF/EUR</title>
+      <link>http://themoneyconverter.com/EUR/VEF.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 8.70804 Venezuelan Bolívar</description>
+      <category>South America</category>
+    </item>
+    <item>
+      <title>VND/EUR</title>
+      <link>http://themoneyconverter.com/EUR/VND.aspx</link>
+      <pubDate>Thu 24 Apr 2014 07:14:30 GMT</pubDate>
+      <description>1 Euro = 29163.31050 Vietnamese Dong</description>
+      <category>Asia</category>
+    </item>
+    <item>
+      <title>XAF/EUR</title>
+      <link>http://themoneyconverter.com/EUR/XAF.aspx</link>
+      <pubDate>Thu 24 Apr 2014 00:00:00 GMT</pubDate>
+      <description>1 Euro = 655.95700 Central African Franc</description>
+      <category>Africa</category>
+    </item>
+    <item>
+      <title>XCD/EUR</title>
+      <link>http://themoneyconverter.com/EUR/XCD.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 3.73202 East Caribbean Dollar</description>
+      <category>North America</category>
+    </item>
+    <item>
+      <title>XOF/EUR</title>
+      <link>http://themoneyconverter.com/EUR/XOF.aspx</link>
+      <pubDate>Thu 24 Apr 2014 00:00:00 GMT</pubDate>
+      <description>1 Euro = 655.95700 West African Franc</description>
+      <category>Africa</category>
+    </item>
+    <item>
+      <title>XPF/EUR</title>
+      <link>http://themoneyconverter.com/EUR/XPF.aspx</link>
+      <pubDate>Thu 24 Apr 2014 00:00:00 GMT</pubDate>
+      <description>1 Euro = 119.33174 CFP Franc</description>
+      <category>Oceania</category>
+    </item>
+    <item>
+      <title>ZAR/EUR</title>
+      <link>http://themoneyconverter.com/EUR/ZAR.aspx</link>
+      <pubDate>Thu 24 Apr 2014 09:07:26 GMT</pubDate>
+      <description>1 Euro = 14.61439 South African Rand</description>
+      <category>Africa</category>
+    </item>
+  </channel>
+</rss>
