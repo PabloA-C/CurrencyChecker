@@ -4,8 +4,9 @@
  * and open the template in the editor.
  */
 
-function load() {
+ function division(a,b) {
 	
-	 document.write("<?php   include ('changeBase.php'); myCompanyMossgtto();  header('Location: index.php'); ?>");
 
+	   return a/b; 
+	
 }

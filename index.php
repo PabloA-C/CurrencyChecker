@@ -106,10 +106,11 @@
 								$max = 92;
 							}
 
-							if ($cont > $min && $cont < $max) {	$value;
+							if ($cont > $min && $cont < $max) {
 
-								$value = substr($child -> value, 0, 8);
 								$currency = $child -> currency;
+
+								$value = $child -> value;
 
 								echo("
 <form method='post' action='changeBase.php'>
