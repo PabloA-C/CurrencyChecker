@@ -9,17 +9,25 @@
 
 		<div id="startpanel">
 			<?php
+			
+			
 
-			$newCurrency  = $_POST['currency'];
-			$newValue  = $_POST['value'];
 			
-			
-			$xml = new DOMDocument(1.0);
+
+			$newCurrency = $_POST['currency'];
+			$newValue = $_POST['value'];
+
+			$xml = new DOMDocument('1.0');
+
+			$xmlTag = $xml -> createElement("xml");
+			$xml -> appendChild($xmlTag);
 
 			$base = $xml -> createElement("base");
 			$xml -> appendChild($base);
-			$base_value = $xml -> createTextNode($newCurrency . $newVal);
+			$base_value = $xml -> createTextNode($newCurrency);
 			$base -> appendChild($base_value);
+
+			$xmlTag -> appendChild($base);
 
 			$data = simplexml_load_file("data.xml");
 
@@ -43,11 +51,12 @@
 
 					$val -> appendChild($val_value);
 					$item -> appendChild($val);
-
+					$xmlTag -> appendChild($item);
 				}
 			}
 
-			$xml -> save("test.xml");
+		
+			$xml->save("data.xml");
 
 			header('Location: index.php');
 			?>

@@ -115,8 +115,7 @@
 <form method='post' action='changeBase.php'>
 <input type='hidden' name='currency' value='$currency' >
 <input type='hidden' name='value' value='$value' >
-<input class='buttonCustom' type='submit' value='$value  $currency' name='like'>
-
+<button class='buttonCustom' type='submit'>$value  $currency</button>
 </form>
 
 ");
