@@ -116,19 +116,19 @@
 				}
 				?>
 
+				
+
 				</div>
 
-				<section id="save" class="container">
-					<ul class="actions">
-						<li>
+<section id="save" class="container">
+				<ul class="actions">
+				<li>
 
-							<form method='post' action='getPDF.php'>
-								<button class='buttonCustom' type='submit'>
-									Export selection as PDF
-								</button>
+				<form method='post' action='getPDF.php'>
+				<button class='buttonCustom' type='submit'>Export selection as PDF</button>
 
-						</li>
-					</ul>
+				</li>
+				</ul>
 				</section>
 
 				<div id="features-wrapper">
